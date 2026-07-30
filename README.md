@@ -8,15 +8,19 @@ FAQ schema is structured data, written in JSON-LD, that labels a page's question
 
 ## What is inside
 
-- `01-what-it-is.md` structured data and the FAQPage type, plainly.
-- `02-when-to-use-it.md` where FAQ schema fits and where it does not.
-- `03-writing-faqs-that-get-used.md` real questions, direct answers.
-- `04-the-markup-rules.md` keeping it valid and honest.
-- `05-common-mistakes.md` the errors that waste or misuse it.
+- [01-what-it-is.md](01-what-it-is.md) structured data and the FAQPage type, plainly.
+- [02-when-to-use-it.md](02-when-to-use-it.md) where FAQ schema fits and where it does not.
+- [03-writing-faqs-that-get-used.md](03-writing-faqs-that-get-used.md) real questions, direct answers.
+- [04-the-markup-rules.md](04-the-markup-rules.md) keeping it valid and honest.
+- [05-common-mistakes.md](05-common-mistakes.md) the errors that waste or misuse it.
 
 ## How this fits
 
 FAQ schema is the structured-data expression of the answer-first, direct-answer approach in the citability and GEO references. The same writing that makes content citable, real questions answered directly, is what makes FAQ schema worth adding. It pairs with those references.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
